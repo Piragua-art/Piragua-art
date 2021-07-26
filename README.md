@@ -2,7 +2,7 @@
 - 👀 I’m interested in a Jr. job
 - 🌱 I’m currently learning Web Developer in Plazti
 - 💞️ I’m looking to collaborate on any job with HTML and CSS
-- 📫 How to reach me ...
+- 📫 How to reach me by email
 
 <!---
 Piragua-art/Piragua-art is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
